@@ -1,8 +1,15 @@
+日本語 にほんご Nihongo
+
+[日本語NET](https://nihongokyoshi-net.com/)
+
+[無料日本語教材 「オンライン日本語学習」](https://study.u-biq.org/)
+
+[日语自学笔记](https://xenojoshua.com/2020/03/japanese/)
+
+[NEWS WEB EASY 日语 NHK](https://www3.nhk.or.jp/news/easy/)
+
 # __Japanese Language Syntax Quick Reference__
-
-
-
-
+Inspired by Tae Kim's Guide to Learning Japanese
 
 ## 目次
 
