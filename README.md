@@ -9,7 +9,7 @@
 [NEWS WEB EASY 日语 NHK](https://www3.nhk.or.jp/news/easy/)
 
 # __Japanese Language Syntax Quick Reference__
-Inspired by Tae Kim's Guide to Learning Japanese
+Inspired by [Tae Kim's Guide](http://www.guidetojapanese.org/learn/grammar) to Learning Japanese & [日语语法指南](http://res.wokanxing.info/jpgramma/)
 
 ## 目次
 
